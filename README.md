@@ -4,4 +4,9 @@ This is the team profile builder homework assignment using inquirer and jest. Th
 https://github.com/andersonmourot/team-profile-builder
 https://andersonmourot.github.io/team-profile-builder/
 
+//Video Link//
+https://drive.google.com/file/d/10qXSH-738WRbW6CuMXmtM6oDqCAOGQkE/view
+////
+
+
 ![Screen Shot 2022-11-16 at 10 36 33 AM copy](https://user-images.githubusercontent.com/109611768/202239751-020dc5bb-1db2-45f7-946c-dac27faaa1ee.png)
